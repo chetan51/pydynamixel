@@ -78,5 +78,5 @@ If they still don't move you'll need to trouble shoot.
         - Double check the servo network cables are firmly seated into each
           servo.
         - Otherwise the servo or cables may be defective.
-
-
+    - Are you running Mac OS X?
+        - Install the latest [FTDI virtual COM port drivers](http://www.ftdichip.com/Drivers/VCP.htm), and then disconnect and reconnect the USB2Dynamixel. If that doesn't work, restart your computer and try again.
